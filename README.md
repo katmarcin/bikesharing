@@ -18,13 +18,14 @@ Tableau Public 2021.4.4, Jupyter Notebook, Python language, Pandas library, Visu
 
 a. Checkout Times for Users
 
-<img src="images/Screen Shot 2022-03-20 at 7.49.08 PM.png" alt="Alt text" title="Optional title" width="500" height="350"/>
+<img src="images/Screen Shot 2022-03-26 at 12.54.45 AM.png" alt="Alt text" title="Optional title" width="500" height="350"/>
+
 
 This graph depicts the length of time that bikes are checked out for all riders. The most bikes were checked out for five hours, 530 bikes per the depiction.
 
 b. Checkout Times by Gender
 
-<img src="images/Screen Shot 2022-03-20 at 7.49.20 PM.png" alt="Alt text" title="Optional title" width="500" height="350"/>
+<img src="images/Screen Shot 2022-03-26 at 12.55.09 AM.png" alt="Alt text" title="Optional title" width="500" height="350"/>
 
 The most bikes were checked out for five hours across all gender categories documented: male, female, and unknown.
 
