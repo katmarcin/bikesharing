@@ -6,6 +6,10 @@ The purpose of this analysis is to help create a business proposal for a bike-sh
 
 ### Resources
 
+#### Tableau Public Link
+
+[Link to Dashboard](https://public.tableau.com/app/profile/katherine.marcinkowski/viz/NYCCitiBikeData_16478309232740/NYCCitiBikeData?publish=yes)
+
 #### Data Source
 
 201908-citibike-tripdata.csv, obtained from https://ride.citibikenyc.com/system-data
