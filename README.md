@@ -2,11 +2,13 @@
 
 ## Overview of the Statistical Analysis
 
-The purpose of this analysis is to help create a business proposal for a bike-sharing company that would be based prospecitvely in Des Moines, Iowa. In order to convince a potential Angel investor to provide seed funding for the business, a statistical analysis was performed using public data from another bike-sharing company, Citi Bike. The data available is sourced from metrics within New York City, as Citi Bike is a privately-owned public bike sharing system that only operates within NYC buroughs. Information spanning from user demographics to trip duration to help answer potential questions if we were to open a bike-sharing business in Des Moines. Tableau Public, a data visualization software, is used as the primary tool to our business proposal.
+The purpose of this analysis is to help create a business proposal for a bike-sharing company that would prospectively be based in Des Moines, Iowa. In order to convince a potential Angel investor to provide seed funding for the business, a statistical analysis was performed using public data from another bike-sharing company, Citi Bike. The data available is sourced from metrics within New York City, as Citi Bike is a privately-owned public bike sharing system that only operates within NYC buroughs. Information spanning from user demographics to trip duration was used to help answer any potential questions from investors if we were to open a bike-sharing business in Des Moines. Tableau Public, a data visualization software, is used as the primary tool for our business proposal.
 
 ### Resources
 
 #### Data Source
+
+201908-citibike-tripdata.csv, obtained from https://ride.citibikenyc.com/system-data
 
 #### Software
 
@@ -36,8 +38,6 @@ d. Trips by Gender (Weekday per Hour)
 
 <img src="images/Screen Shot 2022-03-20 at 7.49.34 PM.png" alt="Alt text" title="Optional title" width="500" height="350"/>
 
-images/Screen Shot 2022-03-20 at 7.49.34 PM.png
-
 Both female and male users most frequently stopped riding their Citi Bike at 6 PM on Thursdays. Those categorized as "unknown" most frequently stopped at 12 PM on Saturdays.
 
 e. User Trips by Gender by Weekday
@@ -51,12 +51,11 @@ f. Gender Breakdown
 
 <img src="images/Screen Shot 2022-03-20 at 7.49.48 PM.png" alt="Alt text" title="Optional title" width="500" height="250"/>
 
-There are aproximately 2.6 male Citi Bike users to every 1 female Citi Bike user. 
+There are approximately 2.6 male Citi Bike users to every 1 female Citi Bike user. 
 
 g. Customers vs. Subscribers
 
 <img src="images/Screen Shot 2022-03-20 at 7.49.53 PM.png" alt="Alt text" title="Optional title" width="500" height="250"/>
-
 
 For every 4 Citi Bike subscribers, there is 1 Citi Bike customer. 
 
